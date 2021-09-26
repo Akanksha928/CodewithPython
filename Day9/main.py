@@ -25,5 +25,3 @@ def findLargest(dictionary = {}):
 print(art.logo)
 print("Welcome to the secret auction program!")
 bidding()
-
-#HINT: You can call clear() to clear the output in the console.
