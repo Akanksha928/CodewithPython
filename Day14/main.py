@@ -35,13 +35,13 @@ while game_continue == True:
 
     celeb1 = generate_celeb()
     celeb2 = generate_celeb()
+    
+    #A checkpoint if both celebrities generated are the same
     if celeb1 == celeb2:
         celeb2 = generate_celeb()
 
     print(f"Compare A: {get_name(celeb1)}, a {get_description(celeb1)}, from {get_country(celeb1)} ")
-
     print(art.vs)
-
     print(f"Against B: {get_name(celeb2)}, a {get_description(celeb2)}, from {get_country(celeb2)} ")
 
     choice = input("Type A or B: ").upper()
