@@ -3,7 +3,7 @@ import random
 screen = Screen()
 
 screen.setup(width=500, height=400)
-user_bet = screen.textinput("Turtle Race", "Place your bets on the turtle: ")
+user_bet = screen.textinput("Welcome to the Turtle Race", "Place your bets on the turtle: ")
 colors = ["red", "blue", "green", "yellow", "orange", "purple"]
 turtles = ["mini", "moni", "tim", "cook", "tom", "zack"]
 race_is_on = False
