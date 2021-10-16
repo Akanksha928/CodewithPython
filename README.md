@@ -42,3 +42,5 @@ A collection all of all the codes that are being developed on each day of the co
 - Day 23 - [Turtle Crossing Road Game](https://github.com/Akanksha928/100-Days-of-Code/tree/main/Day23)
 
 - Day 24 - [Mail Merger Project](https://github.com/Akanksha928/100-Days-of-Code/tree/main/Day24)
+
+- Day 25 - [U.S States Game](https://github.com/Akanksha928/100-Days-of-Code/tree/main/Day25)
