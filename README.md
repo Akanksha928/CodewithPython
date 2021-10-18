@@ -44,3 +44,5 @@ A collection all of all the codes that are being developed on each day of the co
 - Day 24 - [Mail Merger Project](https://github.com/Akanksha928/100-Days-of-Code/tree/main/Day24)
 
 - Day 25 - [U.S States Game](https://github.com/Akanksha928/100-Days-of-Code/tree/main/Day25)
+
+- Day 26 [NATO Alphabet Project](https://github.com/Akanksha928/100-Days-of-Code/tree/main/Day26)
