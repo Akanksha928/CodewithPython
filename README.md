@@ -48,3 +48,5 @@ A collection all of all the codes that are being developed on each day of the co
 - Day 26 - [NATO Alphabet Project](https://github.com/Akanksha928/100-Days-of-Code/tree/main/Day26)
 
 - Day 27 - [Miles to Kilometre Converter using GUI](https://github.com/Akanksha928/100-Days-of-Code/tree/main/Day27)
+
+- Day 28 - [Pomodoro Technique Timer](https://github.com/Akanksha928/100-Days-of-Code/tree/main/Day28)
