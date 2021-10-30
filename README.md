@@ -49,4 +49,6 @@ A collection all of all the codes that are being developed on each day of the co
 
 - Day 27 - [Miles to Kilometre Converter using GUI](https://github.com/Akanksha928/100-Days-of-Code/tree/main/Day27)
 
-- Day 28 - [Pomodoro Technique Timer](https://github.com/Akanksha928/100-Days-of-Code/tree/main/Day28)
+- Day 28 - [Pomodoro GUI Timer](https://github.com/Akanksha928/100-Days-of-Code/tree/main/Day28)
+
+- Day 29 - [Password Manager GUI App using Tkinter](https://github.com/Akanksha928/100-Days-of-Code/tree/main/Day29)
