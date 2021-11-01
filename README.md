@@ -1,4 +1,4 @@
-# 100 Days of Code with Python
+# 100 Days of Code: The Complete Python Pro Bootcamp
 
 A collection of all the codes developed on each day of the course by Angela Yu on Udemy.
 
