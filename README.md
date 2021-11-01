@@ -1,6 +1,6 @@
 # 100 Days of Code with Python
 
-A collection all of all the codes that are being developed on each day of the course by Angela Yu on Udemy.
+A collection of all the codes developed on each day of the course by Angela Yu on Udemy.
 
 ## Contents
 - Day 3 - [Treasure Island](https://github.com/Akanksha928/100-Days-of-Code/blob/main/Day3.py)
