@@ -56,3 +56,5 @@ A collection of all the codes developed on each day of the course by Angela Yu o
 - Day 30 - [Improved Password Manager App using Exceptions](https://github.com/Akanksha928/100-Days-of-Code/tree/main/Day30)
 
 - Day 31 - [Flash Card Game using tkinter](https://github.com/Akanksha928/100-Days-of-Code/tree/main/Day31)
+
+- Day 32 - [Automated Birthday Wisher](https://github.com/Akanksha928/100-Days-of-Code/tree/main/Day32)
