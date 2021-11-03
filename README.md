@@ -37,7 +37,7 @@ A collection of all the codes developed on each day of the course by Angela Yu o
 
 - Day 20 and 21 - [Snake Game using Turtle](https://github.com/Akanksha928/100-Days-of-Code/tree/main/Day20%2621)
 
-- Day 22 - [The Pong Game](https://github.com/Akanksha928/100-Days-of-Code/tree/main/Day%2022)
+- Day 22 - [The Pong Game](https://github.com/Akanksha928/100-Days-of-Code/tree/main/Day22)
 
 - Day 23 - [Turtle Crossing Road Game](https://github.com/Akanksha928/100-Days-of-Code/tree/main/Day23)
 
@@ -58,3 +58,5 @@ A collection of all the codes developed on each day of the course by Angela Yu o
 - Day 31 - [Flash Card Game using tkinter](https://github.com/Akanksha928/100-Days-of-Code/tree/main/Day31)
 
 - Day 32 - [Automated Birthday Wisher](https://github.com/Akanksha928/100-Days-of-Code/tree/main/Day32)
+
+- Day 33 - [ISS Overhead Notifier](https://github.com/Akanksha928/100-Days-of-Code/tree/main/Day33)
