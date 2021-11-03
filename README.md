@@ -59,4 +59,4 @@ A collection of all the codes developed on each day of the course by Angela Yu o
 
 - Day 32 - [Automated Birthday Wisher](https://github.com/Akanksha928/100-Days-of-Code/tree/main/Day32)
 
-- Day 33 - [ISS Overhead Notifier](https://github.com/Akanksha928/100-Days-of-Code/tree/main/Day33)
+- Day 33 - [ISS Overhead Notifier using APIs](https://github.com/Akanksha928/100-Days-of-Code/tree/main/Day33)
