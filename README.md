@@ -62,3 +62,5 @@ A collection of all the codes developed on each day of the course by Angela Yu o
 - Day 33 - [ISS Overhead Notifier using APIs](https://github.com/Akanksha928/100-Days-of-Code/tree/main/Day33)
 
 - Day 34 - [GUI Quiz App](https://github.com/Akanksha928/100-Days-of-Code/tree/main/Day34)
+
+- Day 35 - [Weather Alert Sender](https://github.com/Akanksha928/100-Days-of-Code/tree/main/Day35)
