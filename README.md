@@ -72,3 +72,5 @@ A collection of all the codes developed on each day of the course by Angela Yu o
 - Day 38 - [Workout Tracking using Google Sheets](https://github.com/Akanksha928/100-Days-of-Code/tree/main/Day38)
 
 - Day 39 and 40 - [Flight Deal Finder and Club](https://github.com/Akanksha928/100-Days-of-Code/tree/main/Day39%2640)
+
+- Day 41 and 42 - [CV using pure HTML (Web Development Foundation)](https://github.com/Akanksha928/100-Days-of-Code/tree/main/Day41%2642)
