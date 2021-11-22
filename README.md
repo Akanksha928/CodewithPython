@@ -74,3 +74,7 @@ A collection of all the codes developed on each day of the course by Angela Yu o
 - Day 39 and 40 - [Flight Deal Finder and Club](https://github.com/Akanksha928/100-Days-of-Code/tree/main/Day39%2640)
 
 - Day 41 and 42 - [CV using pure HTML (Web Development Foundation)](https://github.com/Akanksha928/100-Days-of-Code/tree/main/Day41%2642)
+
+- Day 43 and 44 - [CV using HTML and CSS](https://github.com/Akanksha928/cv)
+
+- Day 45 - [Web Scraping with Beautiful Soup](https://github.com/Akanksha928/100-Days-of-Code/tree/main/Day45)
