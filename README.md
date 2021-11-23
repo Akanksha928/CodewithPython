@@ -80,3 +80,5 @@ A collection of all the codes developed on each day of the course by Angela Yu o
 - Day 45 - [Web Scraping with Beautiful Soup](https://github.com/Akanksha928/100-Days-of-Code/tree/main/Day45)
 
 - Day 46 - [Musical Time Machine by creating Spotify Playlists](https://github.com/Akanksha928/100-Days-of-Code/tree/main/Day46)
+
+- Day 47 - [Automated Amazon Price Tracker](https://github.com/Akanksha928/100-Days-of-Code/tree/main/Day47)
