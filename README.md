@@ -84,3 +84,5 @@ A collection of all the codes developed on each day of the course by Angela Yu o
 - Day 47 - [Automated Amazon Price Tracker](https://github.com/Akanksha928/100-Days-of-Code/tree/main/Day47)
 
 - Day 48 - [Automated Game Playing Bot](https://github.com/Akanksha928/100-Days-of-Code/tree/main/Day48)
+
+- Day 49 - [LinkedIn Job Application Automation](https://github.com/Akanksha928/100-Days-of-Code/tree/main/Day49)
