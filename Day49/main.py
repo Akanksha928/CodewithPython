@@ -13,9 +13,9 @@ driver.find_element(By.XPATH, "/html/body/div[1]/header/nav/div/a[2]").click()
 time.sleep(5)
 
 email = driver.find_element(By.XPATH, "//*[@id='username']")
-email.send_keys("akanksha.xo@gmail.com")
+email.send_keys(YOUR_EMAIL)
 password = driver.find_element(By.XPATH, "//*[@id='password']")
-password.send_keys("anushka555")
+password.send_keys(YOUR_PWD)
 
 driver.find_element(By.XPATH, "//*[@id='organic-div']/form/div[3]/button").click()
 time.sleep(7)
