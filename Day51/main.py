@@ -9,7 +9,7 @@ chrome_driver_path = r"C:\Development\chromedriver.exe"
 PROMISED_DOWN = 150
 PROMISED_UP = 10
 TWITTER_USERNAME = "@botfortestingg"
-TWITTER_PASSWORD = "anushka555"
+TWITTER_PASSWORD = Your twitter pwd
 
 
 class InternetSpeedTwitterBot:
