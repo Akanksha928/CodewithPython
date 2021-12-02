@@ -86,3 +86,5 @@ A collection of all the codes developed on each day of the course by Angela Yu o
 - Day 48 - [Automated Game Playing Bot](https://github.com/Akanksha928/100-Days-of-Code/tree/main/Day48)
 
 - Day 49 - [LinkedIn Job Application Automation](https://github.com/Akanksha928/100-Days-of-Code/tree/main/Day49)
+
+- Day 51 - [Internet Speed Twitter Complaint Bot](https://github.com/Akanksha928/100-Days-of-Code/tree/main/Day51)
