@@ -10,7 +10,7 @@ from selenium.webdriver.common.by import By
 chrome_driver_path = r"C:\Development\chromedriver.exe"
 SIMILAR_ACCOUNT = "dessert__lover"
 USERNAME = "botfortestingg"
-PASSWORD = "botfortesting"
+PASSWORD = Your password
 
 
 class InstaFollower:
