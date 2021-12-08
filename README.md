@@ -92,3 +92,5 @@ A collection of all the codes developed on each day of the course by Angela Yu o
 - Day 52 - [Instagram Bot Follower](https://github.com/Akanksha928/100-Days-of-Code/tree/main/Day52)
 
 - Day 53 - [Data Entry Job Automation](https://github.com/Akanksha928/100-Days-of-Code/tree/main/Day53)
+
+- Day 54 - [Introduction to Web Development with Flask](https://github.com/Akanksha928/100-Days-of-Code/tree/main/Day54)
