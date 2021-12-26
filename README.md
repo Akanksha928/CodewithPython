@@ -95,4 +95,6 @@ A collection of all the codes developed on each day of the course by Angela Yu o
 
 - Day 54 - [Introduction to Web Development with Flask](https://github.com/Akanksha928/100-Days-of-Code/tree/main/Day54)
 
+- Day 55 - [Higher Lower Game](https://github.com/Akanksha928/100-Days-of-Code/tree/main/Day55)
+
 - Day 56 - [Name Card Website](https://github.com/Akanksha928/100-Days-of-Code/tree/main/Day56)
