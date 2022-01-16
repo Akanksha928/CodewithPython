@@ -103,7 +103,7 @@ A collection of all the codes developed on each day of the course by Angela Yu o
 
 - Day 58 - [Introduction to Bootstrap and TinDog](https://github.com/Akanksha928/100-Days-of-Code/tree/main/Day58)
 
-- Day 59 and 60 - [Blog Capstone Project 2 styling using Bootstrap](https://github.com/Akanksha928/100-Days-of-Code/tree/main/Day59%2660)
+- Day 59 and 60 - [Blog Capstone Project Part 2 styling using Bootstrap](https://github.com/Akanksha928/100-Days-of-Code/tree/main/Day59%2660)
 
 - Day 61 - [Advanced Forms using Flask and WTForms](https://github.com/Akanksha928/100-Days-of-Code/tree/main/Day61)
 
