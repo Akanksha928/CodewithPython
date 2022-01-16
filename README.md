@@ -100,3 +100,5 @@ A collection of all the codes developed on each day of the course by Angela Yu o
 - Day 56 - [Name Card Website](https://github.com/Akanksha928/100-Days-of-Code/tree/main/Day56)
 
 - Day 57 - [Blog Capstone Project Part 1 with Flask and Jinja](https://github.com/Akanksha928/100-Days-of-Code/tree/main/Day57)
+
+- Day 62 - [Coffee Shop Project using Flask, WTForms, Bootstrap and CSV](https://github.com/Akanksha928/100-Days-of-Code/tree/main/Day62)
