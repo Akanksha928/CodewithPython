@@ -108,3 +108,7 @@ A collection of all the codes developed on each day of the course by Angela Yu o
 - Day 61 - [Advanced Forms using Flask and WTForms](https://github.com/Akanksha928/100-Days-of-Code/tree/main/Day61)
 
 - Day 62 - [Coffee Shop Project using Flask, WTForms, Bootstrap and CSV](https://github.com/Akanksha928/100-Days-of-Code/tree/main/Day62)
+
+- Day 63 - [Virtual Bookshelf using SQLite and SQLAlchemy](https://github.com/Akanksha928/100-Days-of-Code/tree/main/Day63)
+
+- Day 64 - [Top 10 Movies Website](https://github.com/Akanksha928/100-Days-of-Code/tree/main/Day64)
