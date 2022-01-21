@@ -112,3 +112,5 @@ A collection of all the codes developed on each day of the course by Angela Yu o
 - Day 63 - [Virtual Bookshelf using SQLite and SQLAlchemy](https://github.com/Akanksha928/100-Days-of-Code/tree/main/Day63)
 
 - Day 64 - [Top 10 Movies Website](https://github.com/Akanksha928/100-Days-of-Code/tree/main/Day64)
+
+- Day 66 - [Building an API with RESTful Routing](https://github.com/Akanksha928/100-Days-of-Code/tree/main/Day66)
