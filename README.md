@@ -114,3 +114,7 @@ A collection of all the codes developed on each day of the course by Angela Yu o
 - Day 64 - [Top 10 Movies Website](https://github.com/Akanksha928/100-Days-of-Code/tree/main/Day64)
 
 - Day 66 - [Building an API with RESTful Routing](https://github.com/Akanksha928/100-Days-of-Code/tree/main/Day66)
+
+- Day 68 - [Authentication with Flask](https://github.com/Akanksha928/100-Days-of-Code/tree/main/Day68)
+
+- Day 67, 69, 70 - [Personal Blog deployed using Heroku](https://github.com/Akanksha928/Personal-Blog)
