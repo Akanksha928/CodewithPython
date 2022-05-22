@@ -124,3 +124,5 @@ A collection of all the codes developed on each day of the course by Angela Yu o
 - Day 72 - [Data Visualisation with Matplotlib: Programming Languages](https://github.com/Akanksha928/100-Days-of-Code/tree/main/Day72)
 
 - Day 73 - [Aggregate and Merge Data with Pandas: LEGO Dataset](https://github.com/Akanksha928/100-Days-of-Code/tree/main/Day73)
+
+- Day 74 - [Google Trends Data: Resampling and Visualising Time Series](https://github.com/Akanksha928/100-Days-of-Code/tree/main/Day74)
